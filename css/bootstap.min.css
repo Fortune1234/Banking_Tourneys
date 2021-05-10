@@ -1,0 +1,59 @@
+div :nth-of-type( ){
+    color: orangered;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+.second{
+    
+    background-image: url(../images/businessman-and-male-lawyer-or-judge-consult-having-team-meeting-with-client-law-and-legal-services_t20_2wmELJ-ozj3lm7i3x9qijljq426cu2wlhezayt8cdq63lzrm6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px
+}
+
+.my_button{
+    background-color: orangered;
+}
+
+button{
+    background-color: orangered;
+}
+
+.first{
+    
+    background-image: url(../images/clients-come-to-seek-advice-for-the-law-regarding-privacy-violations-with-the-lawyer-at-the-office_t20_R0yamJ-ozj3ik8dwb36s61akaitr3tz3eh1adomx9ecy8itu6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.ball{
+    width: 50px;
+}
+
+.last{
+    
+    background-image: url(../images/room-with-concrete-floor-smoke-background_9083-2991.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.semi-column{
+    color: orangered;
+}
+
+.pi-geo-alt{
+    color: orangered;
+}
+
+.pi-envelope{
+    color: orangered;
+}
+
+.pi-telephone-inbound{
+    color: orangered;
+}
